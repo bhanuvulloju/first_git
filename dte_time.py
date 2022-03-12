@@ -1,8 +1,7 @@
 import datetime
 
 #just comment
-#added second line 
-
+#next
 tday = datetime.date.today()
 d1 = datetime.date(2001, 11, 16)
 
